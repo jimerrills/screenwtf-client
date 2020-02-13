@@ -9,7 +9,7 @@ I've made use of the system default screenshotting tools on operating systems:
 * MacOS/Darwin: `screencapture -ic
 
 ## Download
-You can download the binaries from https://screen.wtf
+You can download the binaries from https://screen.wtf //supplied by jimslip
 
 ## Compiling
 Make sure you've got `nodejs`, `npm` and `yarn` installed.
