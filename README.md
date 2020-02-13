@@ -6,10 +6,11 @@ The code isn't great, but when you have code this minimal it doesn't really requ
 I've made use of the system default screenshotting tools on operating systems:
 * Windows: `snipping-tool /clip`
 * Linux: `gnome-screenshot -ac`
-* MacOS/Darwin: `screencapture -ic
+* MacOS/Darwin: `screencapture -ic`
 
 ## Download
 You can download the binaries from https://screen.wtf
+(Windows version supplied by https://jimslip.com)
 
 ## Compiling
 Make sure you've got `nodejs`, `npm` and `yarn` installed.
